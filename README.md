@@ -1,4 +1,4 @@
-# Reinforcement Learning (CSCI 1410 – Assignment 5)
+# Reinforcement Learning
 
 This project implements several variants of the on-policy reinforcement learning (RL) algorithm **SARSA** (State-Action-Reward-State-Action) to solve tasks using OpenAI's Gym environment.
 
